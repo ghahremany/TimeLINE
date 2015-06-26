@@ -1,0 +1,1 @@
+﻿{subcat} <img src="{THEME}/images/all-cat.gif" alt=""> {catlink} <font color=1262D0>({catnews})</font><BR>
